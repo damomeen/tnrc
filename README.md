@@ -1,7 +1,7 @@
 tnrc
 ====
 
-It is Transport Network Resource Controller which is capable of configuring various network devices:
+It is Transport Network Resource Controller for GMPLS/ASON Control Plane which is capable of configuring various network devices:
 - Optical OXC: Calien FiberConnect
 - ROADM: ADVA FSP 3000 RE-II 
 - Ethernet switch: Allied Telesis AT-8000
